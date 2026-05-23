@@ -1,4 +1,4 @@
-# Power_BI_Dashboards
+# Power BI Dashboards
 
 ## Overview
 This repository contains additional Power BI dashboards developed during my coursework.
